@@ -1,4 +1,7 @@
-# test coverage for  [npm_lazy (v1.14.0)](https://github.com/mixu/npm_lazy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm_lazy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm_lazy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm_lazy.svg)](https://travis-ci.org/npmtest/node-npmtest-npm_lazy)
+# npmtest-npm_lazy
+
+#### test coverage for  [npm_lazy (v1.14.0)](https://github.com/mixu/npm_lazy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-npm_lazy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npm_lazy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npm_lazy.svg)](https://travis-ci.org/npmtest/node-npmtest-npm_lazy)
+
 #### Lazy local npm cache server
 
 [![NPM](https://nodei.co/npm/npm_lazy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npm_lazy)
